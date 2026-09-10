@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Weekly Time Table</title>
+</head>
+<body>
+<header>
+<h1>My Weekly Time Table</h1>
+</header>
+<nav>
+<a href="index.html">Home</a>
+<a href="#schedule">schedule</a>
+</av>
+<main>
+<section id="schedule">
+<h2>Weekly Schedule</h2>
+<table border="1" cellpadding="10" cellspacing="0">
+<tr>
+<th>Time / Day</th>
+<th>Monday</th>
+<th>Tuesday</th>
+<th>Wednesday</th>
+<th>Thursday</th>
+<th>Friday</th>
+</tr>
+<tr>
+<td>9:00-11:00 AM</td>
+<td>Web Design</td>
+<td>C programming</td>
+<td>Information System</td>
+<td>Discrete Math</td>
+<td>CISCO</td>
+<tr>
+<td>11:00-1:00 PM</td>
+<td>Discrete Math</td>
+<td>Web Design lab</td>
+<td>CISCO</td>
+<td>Programming</td>
+<td>Free</td>
+</tr>
+<tr>
+<td>2:00-4:00 PM</td>
+<td>CISCO</td>
+<td>Free</td>
+<td>Sports</td>
+<td>Web Design</td>
+</td>
+</tr>
+</table>
+</section>
+</main>
+<footer>
+<p>&copy; 2026 BAGAMBA MOSES. All rights reserved.</p>
+</footer>
+</body>
+</html>
+
+
